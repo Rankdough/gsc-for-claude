@@ -50,14 +50,14 @@ Download this repo (green Code button > Download ZIP), unzip it, open a terminal
 Windows PowerShell:
 
 ```powershell
-cd "$HOME\Downloads\gsc-mcp-main"
+cd "$HOME\Downloads\gsc-for-claude-main"
 node get-refresh-token.mjs
 ```
 
 Mac or Linux:
 
 ```bash
-cd ~/Downloads/gsc-mcp-main
+cd ~/Downloads/gsc-for-claude-main
 node get-refresh-token.mjs
 ```
 
