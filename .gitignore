@@ -1,0 +1,6 @@
+refresh-token.txt
+token.txt
+.env
+.env.*
+node_modules/
+.supabase/
